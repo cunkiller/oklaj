@@ -336,26 +336,21 @@ http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/16910
 
 #EXTINF:-1 tvg-logo="https://tvbtn.files.wordpress.com/2013/08/fox-sports-logo-350x168.jpg" group-title="7. SPORTS",FOX SPORTS
 http://45.58.62.92:8080
+#EXTINF:-1 tvg-logo="https://tvbtn.files.wordpress.com/2013/08/fox-sports-logo-350x168.jpg" group-title="7. SPORTS",FOX SOCCER
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101299
 
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_foxsports1_big.png" group-title="7. SPORTS",FOX Sports 1 MEX
-http://tvecuador.xyz:25461/hlhgroup/Bhy1896hk/97
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_foxsports1_big.png" group-title="7. SPORTS",FOX Sports 1 SUR
-http://tvecuador.xyz:25461/hlhgroup/Bhy1896hk/324
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_foxsports1_big.png" group-title="7. SPORTS",FOX Sports 1 FS1
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101298
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_foxsports1_big.png" group-title="7. SPORTS",FOX Sports 1 FS1
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101297
 
-
-
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_foxsports2_big.png" group-title="7. SPORTS",FOX Sports 2 MEX
-http://tvecuador.xyz:25461/hlhgroup/Bhy1896hk/96
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_foxsports2_big.png" group-title="7. SPORTS",FOX Sports 2 SUR
-http://tvecuador.xyz:25461/hlhgroup/Bhy1896hk/318
-
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_foxsports2_big.png" group-title="7. SPORTS",FOX Sports 2 FS2
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101296
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_foxsports2_big.png" group-title="7. SPORTS",FOX Sports 2 FS2
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101295
 
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_foxsports3_big.png" group-title="7. SPORTS",FOX Sports 3 MEX
 http://tvecuador.xyz:25461/hlhgroup/Bhy1896hk/95
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_foxsports3_big.png" group-title="7. SPORTS",FOX Sports 3 SUR
-http://tvecuador.xyz:25461/hlhgroup/Bhy1896hk/312
-
-
 
 
 
