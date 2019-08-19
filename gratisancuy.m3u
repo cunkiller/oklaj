@@ -201,14 +201,14 @@ http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.nowonsocmed.com/iptv/logo/firstmovies.png" group-title="2. MOVIES",First Movie
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
 
-#EXTINF:-1 tvg-logo=https://wdfyfe.files.wordpress.com/2011/09/film5.jpg" group-title="2. MOVIES",MAX PRIME
+#EXTINF:-1 tvg-logo="http://1.179.173.242/movies/image/movie.jpg" group-title="2. MOVIES",MAX PRIME
 http://161.0.157.9/PLTV/88888888/224/3221226834/01.m3u8
-#EXTINF:-1 tvg-logo=https://wdfyfe.files.wordpress.com/2011/09/film5.jpg" group-title="2. MOVIES",HALLMARK MOVIES&MYSTERIES
+#EXTINF:-1 tvg-logo="http://1.179.173.242/movies/image/movie.jpg" group-title="2. MOVIES",HALLMARK MOVIES&MYSTERIES
 http://23.237.22.82:8086/udp/127.0.0.1:56067
-#EXTINF:-1 tvg-logo=https://wdfyfe.files.wordpress.com/2011/09/film5.jpg" group-title="2. MOVIES",CINEMA FAMILY HD 
+#EXTINF:-1 tvg-logo="http://1.179.173.242/movies/image/movie.jpg" group-title="2. MOVIES",CINEMA FAMILY HD 
 http://eir2.pikaflik.co.uk:80/live?channelId=73&deviceMac=00:1A:79:BE:2F:F6&uid=1615|User-Agent=Mozilla/5.0
 
-#EXTINF:-1 tvg-logo=https://wdfyfe.files.wordpress.com/2011/09/film5.jpg" group-title="2. MOVIES",CINEMA PREMIERE HD 
+#EXTINF:-1 tvg-logo="http://1.179.173.242/movies/image/movie.jpg" group-title="2. MOVIES",CINEMA PREMIERE HD 
 http://iptv.jinbox.nl:1339/e0RSbN2x6P/h46q5wdOuH/198
 
 #EXTINF:-1 tvg-id="skyaction.uk" tvg-name="Sky Movies Action & Adventure" tvg-logo="" group-title="2. MOVIES",Sky Movies Action & Adventure 
@@ -287,7 +287,7 @@ http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/15936
 
 #EXTINF:-1 tvg-logo="http://1.179.173.242/movies/image/movie.jpg" group-title="2. MOVIES",MOVIES
 http://www.pandar.tv:25461/025370152733/kdpXhkKQs4yGkd5/23899
-#EXTINF:-1 tvg-logo=https://wdfyfe.files.wordpress.com/2011/09/film5.jpg" group-title="2. MOVIES",CGV sub Korea
+#EXTINF:-1 tvg-logo="http://1.179.173.242/movies/image/movie.jpg" group-title="2. MOVIES",CGV sub Korea
 http://122.129.115.21:1935/edgedol/_definst_/tao103/playlist.m3u8
 
 
