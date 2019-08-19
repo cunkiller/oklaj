@@ -242,50 +242,50 @@ http://eir2.pikaflik.co.uk:80/live?channelId=88&deviceMac=00:1A:79:BE:2F:F6&uid=
 http://eir2.pikaflik.co.uk:80/live?channelId=89&deviceMac=00:1A:79:BE:2F:F6&uid=1615|User-Agent=Mozilla/5.0
 
 
-#EXTINF:-1 tvg-logo=https://i.ytimg.com/vi/fOcquJU7kwI/maxresdefault.jpg" group-title="2. MOVIES",Sky 1
+#EXTINF:-1 tvg-logo="http://1.179.173.242/movies/image/movie.jpg" group-title="2. MOVIES",Sky 1
 http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/17579
-#EXTINF:-1 tvg-logo=https://i.ytimg.com/vi/fOcquJU7kwI/maxresdefault.jpg" group-title="2. MOVIES",Sky 2
+#EXTINF:-1 tvg-logo="http://1.179.173.242/movies/image/movie.jpg" group-title="2. MOVIES",Sky 2
 http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/17578
-#EXTINF:-1 tvg-logo=https://i.ytimg.com/vi/fOcquJU7kwI/maxresdefault.jpg" group-title="2. MOVIES",Sky Action
+#EXTINF:-1 tvg-logo="http://1.179.173.242/movies/image/movie.jpg" group-title="2. MOVIES",Sky Action
 http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/15947
-#EXTINF:-1 tvg-logo=https://i.ytimg.com/vi/fOcquJU7kwI/maxresdefault.jpg" group-title="2. MOVIES",Sky Atlantic HD
+#EXTINF:-1 tvg-logo="http://1.179.173.242/movies/image/movie.jpg" group-title="2. MOVIES",Sky Atlantic HD
 http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/17576
-#EXTINF:-1 tvg-logo=https://i.ytimg.com/vi/fOcquJU7kwI/maxresdefault.jpg" group-title="2. MOVIES",Sky Cinema Action HD
+#EXTINF:-1 tvg-logo="http://1.179.173.242/movies/image/movie.jpg" group-title="2. MOVIES",Sky Cinema Action HD
 http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/17256
-#EXTINF:-1 tvg-logo=https://i.ytimg.com/vi/fOcquJU7kwI/maxresdefault.jpg" group-title="2. MOVIES",Sky Cinema Premiere HD
+#EXTINF:-1 tvg-logo="http://1.179.173.242/movies/image/movie.jpg" group-title="2. MOVIES",Sky Cinema Premiere HD
 http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/17254
-#EXTINF:-1 tvg-logo=https://i.ytimg.com/vi/fOcquJU7kwI/maxresdefault.jpg" group-title="2. MOVIES",Sky Cinema Sci Fi Hor HD
+#EXTINF:-1 tvg-logo="http://1.179.173.242/movies/image/movie.jpg" group-title="2. MOVIES",Sky Cinema Sci Fi Hor HD
 http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/17253
-#EXTINF:-1 tvg-logo=https://i.ytimg.com/vi/fOcquJU7kwI/maxresdefault.jpg" group-title="2. MOVIES",Sky Cinema Select HD
+#EXTINF:-1 tvg-logo="http://1.179.173.242/movies/image/movie.jpg" group-title="2. MOVIES",Sky Cinema Select HD
 http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/17252
 #EXTINF:0,Sky Cinema Thriller HD
 http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/17251
-#EXTINF:-1 tvg-logo=https://i.ytimg.com/vi/fOcquJU7kwI/maxresdefault.jpg" group-title="2. MOVIES",Sky Comedy
+#EXTINF:-1 tvg-logo="http://1.179.173.242/movies/image/movie.jpg" group-title="2. MOVIES",Sky Comedy
 http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/15944
-#EXTINF:-1 tvg-logo=https://i.ytimg.com/vi/fOcquJU7kwI/maxresdefault.jpg" group-title="2. MOVIES",Sky Crime Thriller
+#EXTINF:-1 tvg-logo="http://1.179.173.242/movies/image/movie.jpg" group-title="2. MOVIES",Sky Crime Thriller
 http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/15943
-#EXTINF:-1 tvg-logo=https://i.ytimg.com/vi/fOcquJU7kwI/maxresdefault.jpg" group-title="2. MOVIES",Sky Disney
+#EXTINF:-1 tvg-logo="http://1.179.173.242/movies/image/movie.jpg" group-title="2. MOVIES",Sky Disney
 http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/15942
 #EXTINF:0,Sky Family
 http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/15941
-#EXTINF:-1 tvg-logo=https://i.ytimg.com/vi/fOcquJU7kwI/maxresdefault.jpg" group-title="2. MOVIES",Sky Wtiness
+#EXTINF:-1 tvg-logo="http://1.179.173.242/movies/image/movie.jpg" group-title="2. MOVIES",Sky Wtiness
 http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/17575
-#EXTINF:-1 tvg-logo=https://i.ytimg.com/vi/fOcquJU7kwI/maxresdefault.jpg" group-title="2. MOVIES",Sky Movies Modern Great HD
+#EXTINF:-1 tvg-logo="http://1.179.173.242/movies/image/movie.jpg" group-title="2. MOVIES",Sky Movies Modern Great HD
 http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/17250
-#EXTINF:-1 tvg-logo=https://i.ytimg.com/vi/fOcquJU7kwI/maxresdefault.jpg" group-title="2. MOVIES",Sky Movies Modern Greats
+#EXTINF:-1 tvg-logo="http://1.179.173.242/movies/image/movie.jpg" group-title="2. MOVIES",Sky Movies Modern Greats
 http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/13766
-#EXTINF:-1 tvg-logo=https://i.ytimg.com/vi/fOcquJU7kwI/maxresdefault.jpg" group-title="2. MOVIES",Sky Movies SciFi & Horror
+#EXTINF:-1 tvg-logo="http://1.179.173.242/movies/image/movie.jpg" group-title="2. MOVIES",Sky Movies SciFi & Horror
 http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/13765
-#EXTINF:-1 tvg-logo=https://i.ytimg.com/vi/fOcquJU7kwI/maxresdefault.jpg" group-title="2. MOVIES",Sky Movies Showcase
+#EXTINF:-1 tvg-logo="http://1.179.173.242/movies/image/movie.jpg" group-title="2. MOVIES",Sky Movies Showcase
 http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/13764
-#EXTINF:-1 tvg-logo=https://i.ytimg.com/vi/fOcquJU7kwI/maxresdefault.jpg" group-title="2. MOVIES",Sky News
+#EXTINF:-1 tvg-logo="http://1.179.173.242/movies/image/movie.jpg" group-title="2. MOVIES",Sky News
 http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/19812
-#EXTINF:-1 tvg-logo=https://i.ytimg.com/vi/fOcquJU7kwI/maxresdefault.jpg" group-title="2. MOVIES",Sky Premiere
+#EXTINF:-1 tvg-logo="http://1.179.173.242/movies/image/movie.jpg" group-title="2. MOVIES",Sky Premiere
 http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/15937
-#EXTINF:-1 tvg-logo=https://i.ytimg.com/vi/fOcquJU7kwI/maxresdefault.jpg" group-title="2. MOVIES",Sky Select
+#EXTINF:-1 tvg-logo="http://1.179.173.242/movies/image/movie.jpg" group-title="2. MOVIES",Sky Select
 http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/15936
 
-#EXTINF:-1 tvg-logo=https://i.ytimg.com/vi/fOcquJU7kwI/maxresdefault.jpg" group-title="2. MOVIES",MOVIES
+#EXTINF:-1 tvg-logo="http://1.179.173.242/movies/image/movie.jpg" group-title="2. MOVIES",MOVIES
 http://www.pandar.tv:25461/025370152733/kdpXhkKQs4yGkd5/23899
 #EXTINF:-1 tvg-logo=https://wdfyfe.files.wordpress.com/2011/09/film5.jpg" group-title="2. MOVIES",CGV sub Korea
 http://122.129.115.21:1935/edgedol/_definst_/tao103/playlist.m3u8
