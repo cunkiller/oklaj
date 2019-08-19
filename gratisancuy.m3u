@@ -1,4 +1,4 @@
-﻿#EXTM3U
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/90fGk5rL/pengumuman.png" group-title="1. LOKAL",DONASI SEIKLASNYA -> 0822.8334.5697 |Auto update chanel | pemasangan CCTV | KOMPUTER | IPTV |DLL, TERIMAKASIH KEPADA DONATUR
 https://bit.ly/2VqLEdG
 
@@ -313,18 +313,26 @@ https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b3696000.
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RNYHIdl.png?1" group-title="7. SPORTS",BT Sport 1
-http://iptv.jinbox.nl:1339/hcvr0H3kO5/YFgsO5jCAD/206
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QSXQFVy.jpg?1" group-title="7. SPORTS",BT Sport 2
-http://iptv.jinbox.nl:1339/hcvr0H3kO5/YFgsO5jCAD/207
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CtzAkNw.png?1" group-title="7. SPORTS",BT Sport 3
-http://iptv.jinbox.nl:1339/hcvr0H3kO5/YFgsO5jCAD/11486
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AWAySV7.png?1" group-title="7. SPORTS",BT Sport ESPN
-http://iptv.jinbox.nl:1339/e0RSbN2x6P/h46q5wdOuH/316
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FKddatQ.png" group-title="7. SPORTS",BT Sport Extra 3
-http://iptv.jinbox.nl:1339/hcvr0H3kO5/YFgsO5jCAD/28039
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FKddatQ.png" group-title="7. SPORTS",BT Sport Extra 4
-http://iptv.jinbox.nl:1339/hcvr0H3kO5/YFgsO5jCAD/28038
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RNYHIdl.png?1" group-title="7. SPORTS",BT SPORTS 1 HD
+http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/14391
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RNYHIdl.png?1" group-title="7. SPORTS",SPORTS 2 HD
+http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/17508
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RNYHIdl.png?1" group-title="7. SPORTS",BT SPORTS 3 HD
+http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/16934
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RNYHIdl.png?1" group-title="7. SPORTS",BT SPORTS ESPN HD
+http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/15152
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RNYHIdl.png?1" group-title="7. SPORTS",BT SPORTS 1
+http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/13846
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RNYHIdl.png?1" group-title="7. SPORTS",BT SPORTS 2
+http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/13809
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RNYHIdl.png?1" group-title="7. SPORTS",BT SPORTS 3
+http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/13877
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RNYHIdl.png?1" group-title="7. SPORTS",BT SPORTS ESPN
+http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/16910
+
+
+
 
 #EXTINF:-1 tvg-logo="https://tvbtn.files.wordpress.com/2013/08/fox-sports-logo-350x168.jpg" group-title="7. SPORTS",FOX SPORTS
 http://45.58.62.92:8080
@@ -393,38 +401,76 @@ http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/31203
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/937584992552660992/X6FcKhu7_400x400.jpg" group-title="7. SPORTS",SKY PRIMAFILA WWE HD
 http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/57879
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/937584992552660992/X6FcKhu7_400x400.jpg" group-title="7. SPORTS",SKY SPORTS ARENA HD
+http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/50178
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/937584992552660992/X6FcKhu7_400x400.jpg" group-title="7. SPORTS",SKY SPORTS CRICKET HD
+http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/50177
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/937584992552660992/X6FcKhu7_400x400.jpg" group-title="7. SPORTS",SKY SPORTS F1 HD
+http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/50176
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/937584992552660992/X6FcKhu7_400x400.jpg" group-title="7. SPORTS",SKY SPORTS FOOTBALL HD
+http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/50175
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/937584992552660992/X6FcKhu7_400x400.jpg" group-title="7. SPORTS",SKY SPORTS GOLF HD
+http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/50174
+#EXTINF:-1,SKY SPORTS MAIN EVENT HD
+http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/50173
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/937584992552660992/X6FcKhu7_400x400.jpg" group-title="7. SPORTS",SKY SPORTS MIX HD
+http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/50172
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/937584992552660992/X6FcKhu7_400x400.jpg" group-title="7. SPORTS",SKY SPORTS PREMIER LEAGUE HD
+http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/50170
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/937584992552660992/X6FcKhu7_400x400.jpg" group-title="7. SPORTS",SKY SPORTS ACTION SD
+http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/50169
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/937584992552660992/X6FcKhu7_400x400.jpg" group-title="7. SPORTS",SKY SPORTS ARENA SD
+http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/50168
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/937584992552660992/X6FcKhu7_400x400.jpg" group-title="7. SPORTS",SKY SPORTS CRICKET SD
+http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/50167
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/937584992552660992/X6FcKhu7_400x400.jpg" group-title="7. SPORTS",SKY SPORTS F1 SD
+http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/50166
+#EXTINF:-1,SKY SPORTS FOOTBALL SD
+http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/50165
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/937584992552660992/X6FcKhu7_400x400.jpg" group-title="7. SPORTS",SKY SPORTS GOLF SD
+http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/50164
+#EXTINF:-1,SKY SPORTS MAIN EVENT SD
+http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/50163
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/937584992552660992/X6FcKhu7_400x400.jpg" group-title="7. SPORTS",SKY SPORTS MIX SD
+http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/50162
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/937584992552660992/X6FcKhu7_400x400.jpg" group-title="7. SPORTS",SKY SPORTS PREMIER LEAGUE SD
+http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/50160
 
 
 
 
-#EXTINF:-1 tvg-logo="https://st.kosarka.si/media/website/napoved-2-kroga-evrolige/Sportklub-Hero.jpg" group-title="7. SPORTS",Sport Klub 1 HD
-http://iptv.jinbox.nl:1339/hcvr0H3kO5/YFgsO5jCAD/237
-#EXTINF:-1 tvg-logo="https://st.kosarka.si/media/website/napoved-2-kroga-evrolige/Sportklub-Hero.jpg" group-title="7. SPORTS",Sport Klub 1
-http://iptv.jinbox.nl:1339/hcvr0H3kO5/YFgsO5jCAD/1983
+
+
 #EXTINF:-1 tvg-logo="https://st.kosarka.si/media/website/napoved-2-kroga-evrolige/Sportklub-Hero.jpg" group-title="7. SPORTS",Sport Klub 1
 http://borg.hopto.org:80/emir/emir12345/52485
-#EXTINF:-1 tvg-logo="https://st.kosarka.si/media/website/napoved-2-kroga-evrolige/Sportklub-Hero.jpg" group-title="7. SPORTS",Sport Klub 2 HD
-http://iptv.jinbox.nl:1339/hcvr0H3kO5/YFgsO5jCAD/238
-#EXTINF:-1 tvg-logo="https://st.kosarka.si/media/website/napoved-2-kroga-evrolige/Sportklub-Hero.jpg" group-title="7. SPORTS",Sport Klub 2
 http://iptv.jinbox.nl:1339/hcvr0H3kO5/YFgsO5jCAD/1984
 #EXTINF:-1 tvg-logo="https://st.kosarka.si/media/website/napoved-2-kroga-evrolige/Sportklub-Hero.jpg" group-title="7. SPORTS",Sport Klub 2
 http://borg.hopto.org:80/emir/emir12345/52483
-#EXTINF:-1 tvg-logo="https://st.kosarka.si/media/website/napoved-2-kroga-evrolige/Sportklub-Hero.jpg" group-title="7. SPORTS",Sport Klub 3 HD
-http://iptv.jinbox.nl:1339/hcvr0H3kO5/YFgsO5jCAD/1982
-#EXTINF:-1 tvg-logo="https://st.kosarka.si/media/website/napoved-2-kroga-evrolige/Sportklub-Hero.jpg" group-title="7. SPORTS",Sport Klub 3
-http://iptv.jinbox.nl:1339/hcvr0H3kO5/YFgsO5jCAD/239
 #EXTINF:-1 tvg-logo="https://st.kosarka.si/media/website/napoved-2-kroga-evrolige/Sportklub-Hero.jpg" group-title="7. SPORTS",Sport Klub 3
 http://borg.hopto.org:80/emir/emir12345/52481
-#EXTINF:-1 tvg-logo="https://st.kosarka.si/media/website/napoved-2-kroga-evrolige/Sportklub-Hero.jpg" group-title="7. SPORTS", Sport Klub 4
-http://iptv.jinbox.nl:1339/hcvr0H3kO5/YFgsO5jCAD/14687
+#EXTINF:-1 tvg-logo="https://st.kosarka.si/media/website/napoved-2-kroga-evrolige/Sportklub-Hero.jpg" group-title="7. SPORTS",Sport Klub 4
+http://185.99.2.100:80/eCaP6Yer6j/J6Tia5WdvM/52470
 #EXTINF:-1 tvg-logo="https://st.kosarka.si/media/website/napoved-2-kroga-evrolige/Sportklub-Hero.jpg" group-title="7. SPORTS",Sport Klub 5
-http://iptv.jinbox.nl:1339/hcvr0H3kO5/YFgsO5jCAD/14688
+http://185.99.2.100:80/eCaP6Yer6j/J6Tia5WdvM/52469
 #EXTINF:-1 tvg-logo="https://st.kosarka.si/media/website/napoved-2-kroga-evrolige/Sportklub-Hero.jpg" group-title="7. SPORTS",Sport Klub 6
-http://iptv.jinbox.nl:1339/hcvr0H3kO5/YFgsO5jCAD/38251
-
+http://185.99.2.100:80/eCaP6Yer6j/J6Tia5WdvM/52468
+#EXTINF:-1 tvg-logo="https://st.kosarka.si/media/website/napoved-2-kroga-evrolige/Sportklub-Hero.jpg" group-title="7. SPORTS",Sport Klub 7
+http://185.99.2.100:80/eCaP6Yer6j/J6Tia5WdvM/52467
+#EXTINF:-1 tvg-logo="https://st.kosarka.si/media/website/napoved-2-kroga-evrolige/Sportklub-Hero.jpg" group-title="7. SPORTS",Sport Klub 8
+http://185.99.2.100:80/eCaP6Yer6j/J6Tia5WdvM/52466
+#EXTINF:-1 tvg-logo="https://st.kosarka.si/media/website/napoved-2-kroga-evrolige/Sportklub-Hero.jpg" group-title="7. SPORTS",Sport Klub 9
+http://185.99.2.100:80/eCaP6Yer6j/J6Tia5WdvM/52465
+#EXTINF:-1 tvg-logo="https://st.kosarka.si/media/website/napoved-2-kroga-evrolige/Sportklub-Hero.jpg" group-title="7. SPORTS",Sport Klub 10
+http://185.99.2.100:80/eCaP6Yer6j/J6Tia5WdvM/52464
+#EXTINF:-1 tvg-logo="https://st.kosarka.si/media/website/napoved-2-kroga-evrolige/Sportklub-Hero.jpg" group-title="7. SPORTS",SPORT KLUB CHANNEL HD
+http://185.99.2.100:80/eCaP6Yer6j/J6Tia5WdvM/52487
+#EXTINF:-1 tvg-logo="https://st.kosarka.si/media/website/napoved-2-kroga-evrolige/Sportklub-Hero.jpg" group-title="7. SPORTS",SPORT KLUB GOLF HD
+http://185.99.2.100:80/eCaP6Yer6j/J6Tia5WdvM/52486
+#EXTINF:-1,SPORT KLUB HD
+http://185.99.2.100:80/eCaP6Yer6j/J6Tia5WdvM/52488
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f7/b9/de/f7b9def3aa4f955090c3663d7c49e62c.jpg" group-title="7. SPORTS",beIN Sport HD 1
-http://iptv.rent:8080/87u6nyz6e/jheotu09w4/13860
+http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/91311
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f7/b9/de/f7b9def3aa4f955090c3663d7c49e62c.jpg" group-title="7. SPORTS",beIN Sport HD 2
 http://iptv.rent:8080/87u6nyz6e/jheotu09w4/13859
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f7/b9/de/f7b9def3aa4f955090c3663d7c49e62c.jpg" group-title="7. SPORTS",beIN Sport HD 3
@@ -436,13 +482,18 @@ http://iptv.rent:8080/87u6nyz6e/jheotu09w4/625256
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f7/b9/de/f7b9def3aa4f955090c3663d7c49e62c.jpg" group-title="7. SPORTS",beIN Sport HD 6
 http://iptv.rent:8080/87u6nyz6e/jheotu09w4/16932
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f7/b9/de/f7b9def3aa4f955090c3663d7c49e62c.jpg" group-title="7. SPORTS",beIN Sport HD 7
-http://iptv.rent:8080/87u6nyz6e/jheotu09w4/16931
+http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/91305
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f7/b9/de/f7b9def3aa4f955090c3663d7c49e62c.jpg" group-title="7. SPORTS",beIN Sport HD 8
 http://iptv.rent:8080/87u6nyz6e/jheotu09w4/13853
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f7/b9/de/f7b9def3aa4f955090c3663d7c49e62c.jpg" group-title="7. SPORTS",beIN Sport HD 9
-http://iptv.rent:8080/87u6nyz6e/jheotu09w4/16929
+http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/91303
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f7/b9/de/f7b9def3aa4f955090c3663d7c49e62c.jpg" group-title="7. SPORTS",beIN Sport HD 10
-http://iptv.rent:8080/87u6nyz6e/jheotu09w4/16928
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f7/b9/de/f7b9def3aa4f955090c3663d7c49e62c.jpg" group-title="7. SPORTS",beIN Sport 11 EN
+http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/91301
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f7/b9/de/f7b9def3aa4f955090c3663d7c49e62c.jpg" group-title="7. SPORTS",beIN Sport 12 EN
+http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/91300
+
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f7/b9/de/f7b9def3aa4f955090c3663d7c49e62c.jpg" group-title="7. SPORTS",beIN Sport HD 1
 http://iptv.rent:8080/87u6nyz6e/jheotu09w4/14096
 
@@ -519,8 +570,9 @@ http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/53162
 http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/53161
 
 
-
+#EXTINF:-1,FR RMC SPORT 1 HD
+http://185.99.2.100:80/eCaP6Yer6j/J6Tia5WdvM/53163
 #EXTINF:-1,FR RMC SPORT 4 HD
 http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/53160
-#EXTINF:-1,FR RMC SPORT 5 HD_By : https://tv.tousecurity.com
+#EXTINF:-1,FR RMC SPORT 5 HD
 http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/53159
