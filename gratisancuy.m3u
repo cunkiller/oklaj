@@ -121,17 +121,23 @@ http://iptv.jinbox.nl:1339/e0RSbN2x6P/h46q5wdOuH/24941
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/826790338857672706/J58yjKI5_400x400.jpg" group-title="2. MOVIES",FOX Movies
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=D9CDD7DB18E80023C22954FE693F71DB745D5CE7&profile=pass
 
+#EXTINF:-1 tvg-logo="https://miro.medium.com/max/477/1*tBrTE-uDlmz4YAtCrI2j5Q.jpeg" group-title="2. MOVIES",HBO 
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101355
+#EXTINF:-1 tvg-logo="https://miro.medium.com/max/477/1*tBrTE-uDlmz4YAtCrI2j5Q.jpeg" group-title="2. MOVIES",HBO 
+http://203.153.218.28:9981/stream/channelid/37129950?ticket=D2CF909252119A5520B732C9749C429AA5AF244F&profile=pass
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_2_Logo_Poland.png" group-title="2. MOVIES",HBO 2 (DUAL)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_2_Logo_Poland.png" group-title="2. MOVIES",HBO 2
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101354
+#EXTINF:-1 tvg-logo="https://miro.medium.com/max/477/1*tBrTE-uDlmz4YAtCrI2j5Q.jpeg" group-title="2. MOVIES",HBO COMEDY
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/101353
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/s_c3/c3433a5f5e4e14e7b7517b44f5a9ce7c.png" group-title="2. MOVIES",HBO Family
 http://203.153.218.28:9981/stream/channelid/1316004766?ticket=8603609D96360D7B639AB97584FF09E1086B3284&profile=pass
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mgVZ6rgv/2-FC23-DED-6-DE5-4-B10-91-DD-5-E32-FDBE5498.png" group-title="2. MOVIES",HBO Hits
 http://203.153.218.28:9981/stream/channelid/2038175895?ticket=0299B4C37DF5A2B463E83E4FFD9AD1E91BA48253&profile=pass
-#EXTINF:-1 tvg-logo="http://images.mi.tv/6. Knowledge/py_hbo-hd-este_m.png" group-title="2. MOVIES",HBO ID
-http://203.153.218.28:9981/stream/channelid/37129950?ticket=D2CF909252119A5520B732C9749C429AA5AF244F&profile=pass
 
 #EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/pR8JkJoEn-xGIY1l9RcsU8XHVhQ=/300x300/top/smart/hagah/4/48/hbo-signature-hd-4884f78c.jpg" group-title="2. MOVIES",HBO Signature
 http://203.153.218.28:9981/stream/channelid/1197019186?ticket=96AB9AD0536B1000E515E3219100C78A9625CAE3&profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_2_Logo_Poland.png" group-title="2. MOVIES",HBO 2 (DUAL)
-http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+
 #EXTINF:-1 tvg-logo="http://images.mi.tv/6. Knowledge/py_hbo-hd-este_m.png" group-title="2. MOVIES",HBO ZONE
 http://185.246.209.109:8080/HBO_ZONE/index.m3u8
 
