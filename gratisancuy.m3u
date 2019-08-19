@@ -211,34 +211,34 @@ http://eir2.pikaflik.co.uk:80/live?channelId=73&deviceMac=00:1A:79:BE:2F:F6&uid=
 #EXTINF:-1 tvg-logo="http://1.179.173.242/movies/image/movie.jpg" group-title="2. MOVIES",CINEMA PREMIERE HD 
 http://iptv.jinbox.nl:1339/e0RSbN2x6P/h46q5wdOuH/198
 
-#EXTINF:-1 tvg-id="skyaction.uk" tvg-name="Sky Movies Action & Adventure" tvg-logo="" group-title="2. MOVIES",Sky Movies Action & Adventure 
+#EXTINF:-1 tvg-id="skyaction.uk" tvg-logo="http://1.179.173.242/movies/image/movie.jpg" group-title="2. MOVIES",Sky Movies Action & Adventure 
 http://eir2.pikaflik.co.uk:80/live?channelId=80&deviceMac=00:1A:79:BE:2F:F6&uid=1615|User-Agent=Mozilla/5.0
 
-#EXTINF:-1 tvg-id="skycomedy.uk" tvg-name="Sky Movies Comedy" tvg-logo="" group-title="2. MOVIES",Sky Movies Comedy 
+#EXTINF:-1 tvg-id="skycomedy.uk" tvg-logo="http://1.179.173.242/movies/image/movie.jpg" group-title="2. MOVIES",Sky Movies Comedy 
 http://eir2.pikaflik.co.uk:80/live?channelId=81&deviceMac=00:1A:79:BE:2F:F6&uid=1615|User-Agent=Mozilla/5.0
 
-#EXTINF:-1 tvg-id="skydisney.uk" tvg-name="Sky Movies Disney" tvg-logo="" group-title="2. MOVIES",Sky Movies Disney 
+#EXTINF:-1 tvg-id="skydisney.uk" tvg-logo="http://1.179.173.242/movies/image/movie.jpg" group-title="2. MOVIES",Sky Movies Disney 
 http://eir2.pikaflik.co.uk:80/live?channelId=82&deviceMac=00:1A:79:BE:2F:F6&uid=1615|User-Agent=Mozilla/5.0
 
-#EXTINF:-1 tvg-id="skydrama.uk" tvg-name="Sky Movies Drama & Romance" tvg-logo="" group-title="2. MOVIES",Sky Movies Drama & Romance 
+#EXTINF:-1 tvg-id="skydrama.uk" tvg-logo="http://1.179.173.242/movies/image/movie.jpg" group-title="2. MOVIES",Sky Movies Drama & Romance 
 http://eir2.pikaflik.co.uk:80/live?channelId=83&deviceMac=00:1A:79:BE:2F:F6&uid=1615|User-Agent=Mozilla/5.0
 
-#EXTINF:-1 tvg-id="skyfamily.uk" tvg-name="Sky Movies Family" tvg-logo="" group-title="2. MOVIES",Sky Movies Family 
+#EXTINF:-1 tvg-id="skyfamily.uk" tvg-logo="http://1.179.173.242/movies/image/movie.jpg" group-title="2. MOVIES",Sky Movies Family 
 http://eir2.pikaflik.co.uk:80/live?channelId=84&deviceMac=00:1A:79:BE:2F:F6&uid=1615|User-Agent=Mozilla/5.0
 
-#EXTINF:-1 tvg-id="skygreats.uk" tvg-name="Sky Movies Greats" tvg-logo="" group-title="2. MOVIES",Sky Movies Greats 
+#EXTINF:-1 tvg-id="skygreats.uk" tvg-logo="http://1.179.173.242/movies/image/movie.jpg" group-title="2. MOVIES",Sky Movies Greats 
 http://eir2.pikaflik.co.uk:80/live?channelId=85&deviceMac=00:1A:79:BE:2F:F6&uid=1615|User-Agent=Mozilla/5.0
 
-#EXTINF:-1 tvg-id="skypremiere.uk" tvg-name="Sky Movies Premiere" tvg-logo="" group-title="2. MOVIES",Sky Movies Premiere 
+#EXTINF:-1 tvg-id="skypremiere.uk" tvg-logo="http://1.179.173.242/movies/image/movie.jpg" group-title="2. MOVIES",Sky Movies Premiere 
 http://eir2.pikaflik.co.uk:80/live?channelId=86&deviceMac=00:1A:79:BE:2F:F6&uid=1615|User-Agent=Mozilla/5.0
 
-#EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-name="Sky Movies Sci-Fi & Horror" tvg-logo="" group-title="2. MOVIES",Sky Movies Sci-Fi & Horror 
+#EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-logo="http://1.179.173.242/movies/image/movie.jpg" group-title="2. MOVIES",Sky Movies Sci-Fi & Horror 
 http://eir2.pikaflik.co.uk:80/live?channelId=87&deviceMac=00:1A:79:BE:2F:F6&uid=1615|User-Agent=Mozilla/5.0
 
-#EXTINF:-1 tvg-id="SkySelect.uk" tvg-name="Sky Movies Select" tvg-logo="" group-title="2. MOVIES",Sky Movies Select 
+#EXTINF:-1 tvg-id="SkySelect.uk" tvg-logo="http://1.179.173.242/movies/image/movie.jpg" group-title="2. MOVIES",Sky Movies Select 
 http://eir2.pikaflik.co.uk:80/live?channelId=88&deviceMac=00:1A:79:BE:2F:F6&uid=1615|User-Agent=Mozilla/5.0
 
-#EXTINF:-1 tvg-id="skycrimethriller.uk" tvg-name="Sky Movies Thriller" tvg-logo="" group-title="2. MOVIES",Sky Movies Thriller 
+#EXTINF:-1 tvg-id="skycrimethriller.uk" tvg-logo="http://1.179.173.242/movies/image/movie.jpg" group-title="2. MOVIES",Sky Movies Thriller 
 http://eir2.pikaflik.co.uk:80/live?channelId=89&deviceMac=00:1A:79:BE:2F:F6&uid=1615|User-Agent=Mozilla/5.0
 
 
@@ -254,32 +254,21 @@ http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/17576
 http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/17256
 #EXTINF:-1 tvg-logo="http://1.179.173.242/movies/image/movie.jpg" group-title="2. MOVIES",Sky Cinema Premiere HD
 http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/17254
-#EXTINF:-1 tvg-logo="http://1.179.173.242/movies/image/movie.jpg" group-title="2. MOVIES",Sky Cinema Sci Fi Hor HD
-http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/17253
-#EXTINF:-1 tvg-logo="http://1.179.173.242/movies/image/movie.jpg" group-title="2. MOVIES",Sky Cinema Select HD
-http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/17252
-#EXTINF:0,Sky Cinema Thriller HD
-http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/17251
+
 #EXTINF:-1 tvg-logo="http://1.179.173.242/movies/image/movie.jpg" group-title="2. MOVIES",Sky Comedy
 http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/15944
 #EXTINF:-1 tvg-logo="http://1.179.173.242/movies/image/movie.jpg" group-title="2. MOVIES",Sky Crime Thriller
 http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/15943
 #EXTINF:-1 tvg-logo="http://1.179.173.242/movies/image/movie.jpg" group-title="2. MOVIES",Sky Disney
 http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/15942
-#EXTINF:0,Sky Family
+#EXTINF:-1 tvg-logo="http://1.179.173.242/movies/image/movie.jpg" group-title="2. MOVIES",Sky Family
 http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/15941
-#EXTINF:-1 tvg-logo="http://1.179.173.242/movies/image/movie.jpg" group-title="2. MOVIES",Sky Wtiness
-http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/17575
-#EXTINF:-1 tvg-logo="http://1.179.173.242/movies/image/movie.jpg" group-title="2. MOVIES",Sky Movies Modern Great HD
-http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/17250
 #EXTINF:-1 tvg-logo="http://1.179.173.242/movies/image/movie.jpg" group-title="2. MOVIES",Sky Movies Modern Greats
 http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/13766
 #EXTINF:-1 tvg-logo="http://1.179.173.242/movies/image/movie.jpg" group-title="2. MOVIES",Sky Movies SciFi & Horror
 http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/13765
 #EXTINF:-1 tvg-logo="http://1.179.173.242/movies/image/movie.jpg" group-title="2. MOVIES",Sky Movies Showcase
 http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/13764
-#EXTINF:-1 tvg-logo="http://1.179.173.242/movies/image/movie.jpg" group-title="2. MOVIES",Sky News
-http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/19812
 #EXTINF:-1 tvg-logo="http://1.179.173.242/movies/image/movie.jpg" group-title="2. MOVIES",Sky Premiere
 http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/15937
 #EXTINF:-1 tvg-logo="http://1.179.173.242/movies/image/movie.jpg" group-title="2. MOVIES",Sky Select
